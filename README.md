@@ -1,2 +1,3 @@
 # cpp_algorithm_acm
-算法ACM模式联系
+算法ACM模式练习
+
